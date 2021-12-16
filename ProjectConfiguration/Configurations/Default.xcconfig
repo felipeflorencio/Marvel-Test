@@ -1,0 +1,11 @@
+//
+//  Default.xcconfig
+//  Marvel-Heijn
+//
+//  Created by Felipe F Garcia on 15/12/2021.
+//
+
+BASE_URL = https:/$()/gateway.marvel.com/v1/public
+PUBLIC_KEY = fc5e3c57e9857f68dc447bcf244d718d
+PRIVATE_KEY = 919f2aa70f48ad0c3762123e4195fdc04e47b924
+PAGE_LIMIT = 20

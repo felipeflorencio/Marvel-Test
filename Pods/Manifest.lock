@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CoreNetwork (1.0.8):
+    - Alamofire (= 4.9.1)
+    - PromisesSwift
+  - CryptoSwift (1.4.2)
+  - Kingfisher (7.1.2)
+  - PromisesObjC (2.0.0)
+  - PromisesSwift (2.0.0):
+    - PromisesObjC (= 2.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CoreNetwork (from `https://github.com/AnasAlhasani/CoreNetwork`)
+  - CryptoSwift
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - Kingfisher
+    - PromisesObjC
+    - PromisesSwift
+
+EXTERNAL SOURCES:
+  CoreNetwork:
+    :git: https://github.com/AnasAlhasani/CoreNetwork
+
+CHECKOUT OPTIONS:
+  CoreNetwork:
+    :commit: 14eb1d3fef8ecb1cd1274d96553be2f5e464edb7
+    :git: https://github.com/AnasAlhasani/CoreNetwork
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CoreNetwork: 7338ff3e1763b6a75b326f9f758cd3bfec2d909b
+  CryptoSwift: a532e74ed010f8c95f611d00b8bbae42e9fe7c17
+  Kingfisher: 44ed6a8504763f27bab46163adfac83f5deb240c
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  PromisesSwift: e0b2a6433469efb0b83a2b84c62a2abab8e5e5d4
+
+PODFILE CHECKSUM: 2c4ec68c4a0d74220705ad8b05a593876f13d8ab
+
+COCOAPODS: 1.11.2

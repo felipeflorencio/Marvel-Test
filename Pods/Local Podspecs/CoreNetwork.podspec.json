@@ -1,0 +1,32 @@
+{
+  "name": "CoreNetwork",
+  "version": "1.0.8",
+  "summary": "Protocol oriented networking layer on top of Alamofire",
+  "homepage": "https://github.com/AnasAlhasani/CoreNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Anas Alhasani",
+  "source": {
+    "git": "https://github.com/AnasAlhasani/CoreNetwork.git",
+    "tag": "v1.0.8"
+  },
+  "social_media_url": "https://twitter.com/AlhasaniAnas",
+  "platforms": {
+    "ios": "10.0",
+    "watchos": "4.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "CoreNetwork/Sources/",
+  "frameworks": "Foundation",
+  "dependencies": {
+    "Alamofire": [
+      "4.9.1"
+    ],
+    "PromisesSwift": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

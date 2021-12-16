@@ -1,0 +1,8 @@
+//
+//  Debug.xcconfig
+//  Marvel-Heijn
+//
+//  Created by Felipe F Garcia on 15/12/2021.
+//
+
+#include "ProjectConfiguration/Configurations/Default.xcconfig"
